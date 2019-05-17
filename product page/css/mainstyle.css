@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+   
+}
+
+.header {
+    position: relative;
+    color: white;
+}
+
+.main-image {
+    width: 100%;
+    opacity: 50%;
+}
+
+.grabber {
+    position: absolute;
+    font-weight: 900;
+    font-size: 3.5em;
+    top: 30%;
+    left: 5%;
+}
+
+.nav {
+    position: absolute;
+    
+}
